@@ -15,6 +15,7 @@
 ## 技術ブログ
 ### [DAYSPUT](https://daysput.com/) [（https://daysput.com）](https://daysput.com/)
 ### 投稿歴
+ - 2021/10/25 [全リポジトリのコミット前にSecretlintを実行してGitGuardianのお仕事を減らす](https://daysput.com/blogs/other/secret-lint-git-hooks.html)
  - 2020/12/04 [Docker Desktop for WindowsでのProxy設定を理解する](https://daysput.com/blogs/Environment/2020/1202.html)
  - 2020/09/18 [vue build で生成したサイトをWEBサーバー無しで動かしたい](https://daysput.com/blogs/Frontend/2020/vue_build_failed_public_path.html)
  - 2020/09/02 [Yarnとはを簡単に](https://daysput.com/blogs/Frontend/2020/yarn_about.html)
